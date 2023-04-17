@@ -1,0 +1,26 @@
+# Dependency directories
+node_modules/
+dist/
+build/
+coverage/
+.cache/
+# Environment files
+.env*
+
+# Editor directories and files
+.vscode/
+.idea/
+*.log
+*.iml
+# Compiled files
+*.js
+*.d.ts
+*.js.map
+# Typescript
+*.tsbuildinfo
+
+# Prisma
+prisma/migrations/
+prisma/schema.prisma
+# Apollo Server
+apollo-server-cache/
